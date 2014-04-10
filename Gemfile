@@ -18,4 +18,7 @@ gem 'jbuilder', '1.0.2'
 group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3d6dffedd56f5a54a412f4250bbba2f960487ac7
